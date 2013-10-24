@@ -1,3 +1,8 @@
-body {
-  background: #333333;
-  color: white; }
+body:before { 
+                            white-space: pre; 
+                            font-family: monospace; 
+                            content: 'Sass Syntax error: Invalid CSS after \"h1 \": expected selector, was \"{\" \A         on line 3 of \\Users\\Ricardo\\Code\\ember-intro\\sass\\global.sass \A '; } 
+                            
+                            body * { 
+                            display: none; 
+                            } 

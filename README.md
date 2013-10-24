@@ -1,4 +1,11 @@
-ember-intro
+Little Flame, Big Fire.
 ===========
 
-Getting familiar with Ember JS
+A simple boilerplate to get Ember working in Mixture, with the awesomeness of Sass.
+
+Includes:
+
+- Ember.js
+- jQuery
+- Handlebars
+- Sass
